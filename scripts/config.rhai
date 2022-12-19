@@ -14,7 +14,7 @@ let conferences = [
     // IR
     "ECIR", "ESWC", "ICMR", "ICTIR", "ISWC", "SIGIR",
     // ML
-    "ACML", "AISTATS", "ECML", "ICLR", "ICML", "ML4H", "NeurIPS", "NIPS", "UAI","IEEE TKDE",
+    "ACML", "AISTATS", "ECML", "ICLR", "ICML", "ML4H", "NeurIPS", "NIPS", "UAI", "IEEE TKDE",
     // NLP
     "AACL", "ACL", "CCL", "COLING", "COLT", "CoNLL", "EACL", "EMNLP", "ICASSP", "ICDAR", "ICONIP", "INTERSPEECH", "LREC", "NAACL", "NLPCC", "RepL4NLP", "SIGDIAL", "SemEval", "WANLP", "WASSA", "WOAH",
     // Arch
