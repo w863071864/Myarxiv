@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["Reinforcement", "Policy","Game"];
+let titles_model = ["Reinforcement", "Policy", "Game"];
 let titles_method = ["Agent", "Sample", "Exploration", "Selection", "Strategy"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
