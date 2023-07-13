@@ -1,5 +1,5 @@
 site_title = "MyArxiv For Reinfocement Learning"
-limit_days = 7
+limit_days = 180
 cache_url = "https://w863071864.github.io/MyArxiv/cache.json"
 
 [[sources]]
